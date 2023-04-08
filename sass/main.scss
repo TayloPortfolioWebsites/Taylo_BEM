@@ -26,6 +26,10 @@ img{
 }
 
 /* GLOBAL OR SHARED STYLES */
+
+$color-primary-light:#eeec86;
+$color-primary-dark: #332f2f;
+
 .card{
     margin: 2em;
     max-width: 300px;
@@ -34,11 +38,11 @@ img{
 }
 
 .card--light{
-    background-color: #eeec86;
+    background-color: rgba($color-primary-light, 0.8);
 }
 
 .card--dark{
-    background-color: #332f2f;
+    background-color: rgba($color-primary-dark, 0.8);
     color: #fff;
 }
 
