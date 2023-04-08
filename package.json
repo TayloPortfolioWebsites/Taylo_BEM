@@ -1,0 +1,19 @@
+{
+  "name": "taylo_bem",
+  "version": "1.0.0",
+  "description": "BEM Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imhazeltaylo/Taylo_BEM.git"
+  },
+  "author": "Hazel Tiffany Taylo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imhazeltaylo/Taylo_BEM/issues"
+  },
+  "homepage": "https://github.com/imhazeltaylo/Taylo_BEM#readme"
+}
