@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/imhazeltaylo/Taylo_BEM/issues"
   },
-  "homepage": "https://github.com/imhazeltaylo/Taylo_BEM#readme"
+  "homepage": "https://github.com/imhazeltaylo/Taylo_BEM#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
 }
