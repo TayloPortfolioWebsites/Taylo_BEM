@@ -35,6 +35,14 @@ $color-primary-dark: #332f2f;
     max-width: 300px;
     padding: 4em;
     box-shadow: 0 10px 30px -10px rgba(0, 0, 0, .4);
+
+    &__h2{
+        font-size: 32px;
+    }
+
+    &__paragraph{
+        font-size: 24px;
+    }
 }
 
 .card--light{
